@@ -29,4 +29,4 @@ A puzzle is represented by a list of lists, each inner list corresponding to a l
 `[0, 0, 3, 0, 4, 0, 2],`  \
 `[4, 0, 0, 2, 0, 0, 0]]`
 
-Some useful predicates were provided in the `codigo_comum.pl` file. Some puzzles are defined in the `puzzles_publicos.pl` file. To use these files, you must enter the command `:- [codigocomum, puzzles_publicos].` at the beginning of the file containing your project.
+Some useful predicates were provided in the `codigo_comum.pl` file. Some puzzles are defined in the `puzzles_publicos.pl` file. To use these files, you must enter the command `:- [codigocomum, puzzles_publicos].` at the beginning of `hashi_solver.pl`.
