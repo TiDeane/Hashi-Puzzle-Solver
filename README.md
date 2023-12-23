@@ -1,4 +1,4 @@
-# Hashi-Puzzle-Solver
+# Hashi Puzzle Solver
 IST Logic for Programming project, 2021/2022. Prolog code that solves a given Hashi puzzle.
 
 The objective of this project is to write the first part of a PROLOG program that solves hashi puzzles, from now on just called “puzzles”.
