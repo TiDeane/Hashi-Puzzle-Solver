@@ -1,7 +1,7 @@
 # Hashi Puzzle Solver
 IST Logic for Programming project, 2021/2022. Prolog code that solves a given Hashi puzzle.
 
-The objective of this project is to write the first part of a PROLOG program that solves hashi puzzles, from now on just called “puzzles”.
+---
 
 A hashi puzzle is made up of an _n_ × _m_ grid (_n_ rows, _m_ columns). Each position on the grid can be empty, or contain an _island_, with an indication of the number of bridges that island should have when solving the puzzle. The following image (1) shows an example of a 7 × 7 puzzle, with 9 islands.
 
